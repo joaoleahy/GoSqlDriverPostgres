@@ -3,7 +3,9 @@ This is a Go SQL Driver for connecting to PostgreSQL database.
 
 Development Environment
 Go version: 1.15 or higher
+
 PostgreSQL database
+
 Github.com/lib/pq driver
 ## Installation
 You can install the github.com/lib/pq driver using the following command:
